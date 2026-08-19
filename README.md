@@ -53,6 +53,8 @@ Example:
 
 The system can support customer retention teams by highlighting customers who may require additional attention.
 
+<img width="1853" height="748" alt="churn_prediction_interface" src="https://github.com/user-attachments/assets/d40f482c-e5d9-4091-867f-179ef412a122" />
+
 ## Technologies
 
 * Python
